@@ -63,7 +63,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     goto_classes: "Перейти в Мои классы"
     view_profile: "Посмотреть Мой профиль"
     view_progress: "Посмотреть прогресс"
-#    go_to_courses: "Go to My Courses"
+    go_to_courses: "Перейти в Мои курсы"
     want_coco: "Хотите CodeCombat в вашей школе?"
 
   nav:
@@ -78,7 +78,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     home: "Домой"
     contribute: "Сотрудничество"
     legal: "Юридическая информация"
-#    privacy: "Privacy"
+    privacy: "Конфиденциальность"
     about: "О нас"
     contact: "Связаться"
     twitter_follow: "Подписаться"

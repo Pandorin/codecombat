@@ -737,8 +737,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     current_value: "Текущее значение"
     default_value: "Значение по умолчанию"
     parameters: "Параметры"
-#    required_parameters: "Required Parameters"
-#    optional_parameters: "Optional Parameters"
+    required_parameters: "Обязательные Параметры"
+    optional_parameters: "Необязательный Параметры"
     returns: "Возвращает"
     granted_by: "Предоставлено"
 

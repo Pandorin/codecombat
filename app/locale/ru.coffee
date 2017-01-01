@@ -82,8 +82,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     about: "О нас"
     contact: "Связаться"
     twitter_follow: "Подписаться"
-#    my_classrooms: "My Classes"
-#    my_courses: "My Courses"
+    my_classrooms: "Мои классы"
+    my_courses: "Мои курсы"
     careers: "Карьера"
     facebook: "Facebook"
     twitter: "Twitter"
@@ -99,7 +99,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     faqs: "Часто задаваемые вопросы"
     help_pref: "Нужна помощь? Email"
     help_suff: "и мы свяжемся!"
-#    resource_hub: "Resource Hub"
+    resource_hub: "Информационный центр"
 
   modal:
     close: "Закрыть"
@@ -306,8 +306,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
 #    default_code: "Default Code"
     loading: "Загрузка..."
 #    overview: "Overview"
-#    solution: "Solution"
-#    intro: "Intro"
+    solution: "Решение"
+    intro: "Вступление"
     saving: "Сохранение..."
     sending: "Отправка..."
     send: "Отправить"
@@ -383,9 +383,9 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     last_name: "Фамилия"
     last_initial: "Инициалы фамилии"
     username: "Имя пользователя"
-#    contact_us: "Contact Us"
-#    close_window: "Close Window"
-#    learn_more: "Learn More"
+    contact_us: "Свяжитесь с нами"
+    close_window: "Закрыть окно"
+    learn_more: "Узнать больше"
 
   units:
     second: "секунда"
@@ -404,11 +404,11 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     years: "лет"
 
   play_level:
-#    directions: "Directions"
-#    edit_level: "Edit Level"
-#    explore_codecombat: "Explore CodeCombat"
-#    finished_hoc: "I'm finished with my Hour of Code"
-#    get_certificate: "Get your certificate!"
+    directions: "Инструкция"
+    edit_level: "Редактировать уровень"
+    explore_codecombat: "Изучать CodeCombat"
+    finished_hoc: "Я закончил мой Час Кода"
+    get_certificate: "Получи свой сертификат!"
     level_complete: "Уровень пройден"
     completed_level: "Пройденный уровень:"
     course: "Курс:"
@@ -435,7 +435,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     reload_title: "Перезагрузить код полностью?"
     reload_really: "Вы уверены, что хотите начать уровень сначала?"
     reload_confirm: "Перезагрузить всё"
-#    test_level: "Test Level"
+    test_level: "Тестировать уровень"
     victory: "Победа"
     victory_title_prefix: "Уровень "
     victory_title_suffix: " пройден"
@@ -550,12 +550,12 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
 #    tip_programming_not_about_computers: "Computer Science is no more about computers than astronomy is about telescopes. - Edsger Dijkstra"
     tip_mulan: "Верь, что можешь и получится. - Мулан"
 
-#  play_game_dev_level:
-#    created_by: "Created by {{name}}"
-#    restart: "Restart Level"
-#    play: "Play Level"
-#    play_more_codecombat: "Play More CodeCombat"
-#    default_student_instructions: "Click to control your hero and win your game!"
+  play_game_dev_level:
+    created_by: "Создал {{name}}"
+    restart: "Перезапустить уровнь"
+    play: "Играть уровень"
+    play_more_codecombat: "Играть больше в CodeCombat"
+    default_student_instructions: "Управляйте своим героем и выиграйте!"
 
   game_menu:
     inventory_tab: "Инвентарь"
@@ -613,11 +613,11 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     price: "x{{gems}} / месяц"
 
   subscribe:
-#    subscribe_modal_title: "CodeCombat Premium"
+    subscribe_modal_title: "CodeCombat Премиум"
     comparison_blurb: "Отточите свое мастерство благодаря подписке на CodeCombat!" # {change}
-#    premium_pricing_prefix: "Get Premium for just"
+    premium_pricing_prefix: "Оформить Премиум всего за"
 #    premium_pricing_suffix: "and become a master coder."
-#    premium: "Premium" # Make sure the following feature translations don't go onto two lines
+    premium: "Премиум" # Make sure the following feature translations don't go onto two lines
     feature1: "__levelsCount__+ основных уровней на просторах __worldsCount__-х миров" # {change}
     feature2: "__heroesCount__ могущественных <strong>новых героев</strong> с уникальными способностями!" # {change}
     feature3: "__bonusLevelsCount__+ дополнительных уровней" # {change}
@@ -2065,8 +2065,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     nutshell_title: "В двух словах"
     nutshell_description: "Любые ресурсы, которые мы предоставляем в Редакторе уровней можно свободно использовать как вам нравится для создания уровней. Но мы оставляем за собой право ограничивать распространение уровней самих по себе (которые создаются на codecombat.com), чтобы за них могла взиматься плата в будущем, если до этого дойдёт."
     canonical: "Английская версия этого документа является определяющей и канонической. Если есть какие-либо расхождения между переводами, документ на английском имеет приоритет."
-#    third_party_title: "Third Party Services"
-#    third_party_description: "CodeCombat uses the following third party services (among others):"
+    third_party_title: "Услуги третьих лиц"
+    third_party_description: "CodeCombat использует следующие услуги третьих лиц (в том числе):"
 
   ladder_prizes:
     title: "Турнирные призы" # This section was for an old tournament and doesn't need new translations now.

@@ -616,7 +616,7 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     subscribe_modal_title: "CodeCombat Премиум"
     comparison_blurb: "Отточите свое мастерство благодаря подписке на CodeCombat!" # {change}
     premium_pricing_prefix: "Оформить Премиум всего за"
-#    premium_pricing_suffix: "and become a master coder."
+    premium_pricing_suffix: "и стать мастер-программистом."
     premium: "Премиум" # Make sure the following feature translations don't go onto two lines
     feature1: "__levelsCount__+ основных уровней на просторах __worldsCount__-х миров" # {change}
     feature2: "__heroesCount__ могущественных <strong>новых героев</strong> с уникальными способностями!" # {change}
@@ -625,8 +625,8 @@ module.exports = nativeDescription: "русский", englishDescription: "Russi
     feature6: "Эксклюзивная поддержка по электронной почте"
     feature7: "Частные <strong>Кланы</strong>"
     feature8: "<strong>Без рекламы!</strong>"
-#    feature_game_dev: "Make games for your friends to play in our <strong>Game Dev Worlds</strong>"
-#    feature_web_dev: "Build websites and apps with HTML, CSS, and jQuery in our <strong>Web Dev Worlds</strong>"
+    feature_game_dev: "Создавайте игры для своих друзей в вашем <strong>Game Dev Worlds</strong>"
+    feature_web_dev: "Создавайте сайты и приложении с HTML, CSS и jQuery в вашем <strong>Web Dev Worlds</strong>"
     free: "Бесплатно"
     month: "месяц"
     must_be_logged: "Вы должны быть залогинены. Вы можете создать аккаунт или зайти в уже существующий с помощью меню выше."
